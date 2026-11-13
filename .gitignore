@@ -1,0 +1,12 @@
+# Compiled output
+*.exe
+*.out
+*.o
+musicplaylist
+a.out
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
